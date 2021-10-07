@@ -8,5 +8,4 @@ MVector::MVector(int size) {
 }
 MVector::~MVector() {
 	free(data);
-
 }
